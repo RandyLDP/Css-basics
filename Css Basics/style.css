@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(44, 44, 44);
+    color: rgb(190, 190, 40);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.background{
+    background-color: whitesmoke;
+}
+ .box-1{
+     border: 5px red solid;
+
+ }
+ .container{
+     border: 5px gold solid
+ }
+ .p1{
+     font-style: italic;
+     font-size: 18px;
+    color:rgb(14, 179, 201)
+    
+ }
